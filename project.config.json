@@ -9,6 +9,16 @@
       "fileId": "1gDwO-32cgpBDn_0niV0iu6TqQTaRDr4nmSqnT53magY",
       "type": "sheet",
       "name": "bookstores"
+    },
+    {
+      "fileId": "1JqEIZgvvnu9_OoYSOvIOL9bR-BIu1MhV_WG4TleD3Ks",
+      "type": "sheet",
+      "name": "canada"
+    },
+    {
+      "fileId": "1GV2fFi_XU7z0-g5qLKTa8W4pM-ZuJHwgWrNVPpuJaCI",
+      "type": "sheet",
+      "name": "usa"
     }
   ],
   "to_bake": [

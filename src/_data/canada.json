@@ -1,0 +1,40 @@
+{
+  "resort": [
+    {
+      "resort_name": "Whistler Blackcomb",
+      "location": "Whistler, British Columbia",
+      "blurb": "blurb about whistler",
+      "source": "https://www.whistlerblackcomb.com/"
+    },
+    {
+      "resort_name": "Big White",
+      "location": "Kelowna, British Columbia",
+      "blurb": "blurb about kelowna",
+      "source": "https://www.bigwhite.com/"
+    },
+    {
+      "resort_name": "Marmot Basin",
+      "location": "Jasper, Alberta",
+      "blurb": "blurb about jasper",
+      "source": "https://www.skimarmot.com/"
+    },
+    {
+      "resort_name": "Lake Louise",
+      "location": "Lake Louise, Alberta",
+      "blurb": "blurb about lake louise",
+      "source": "https://www.skilouise.com/"
+    },
+    {
+      "resort_name": "Mont-Tremblant",
+      "location": "Mont-Tremblant, Québec",
+      "blurb": "blurb about mont tremblant",
+      "source": "https://www.tremblant.ca/"
+    },
+    {
+      "resort_name": "Sunshine Village",
+      "location": "Banff, Alberta",
+      "blurb": "blurb about banff",
+      "source": "https://www.skibanff.com/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resort": [
+    {
+      "resort_name": "Aspen Snowmass",
+      "location": "Snowmass Village, Colorado",
+      "blurb": "blurb about snowmass",
+      "source": "https://www.aspensnowmass.com/"
+    },
+    {
+      "resort_name": "Deer Valley",
+      "location": "Park City, Utah",
+      "blurb": "blurb about park city",
+      "source": "https://www.deervalley.com/"
+    },
+    {
+      "resort_name": "Smugglers' Notch",
+      "location": "Jeffersonville, Vermont",
+      "blurb": "blurb about jeffersonville",
+      "source": "https://www.smuggs.com/"
+    },
+    {
+      "resort_name": "Sun Valley",
+      "location": "Sun Valley, Idaho",
+      "blurb": "blurb about sun valley",
+      "source": "https://www.sunvalley.com/"
+    },
+    {
+      "resort_name": "Bretton Woods",
+      "location": "Bretton Woods, New Hampshire",
+      "blurb": "blurb about bretton woods",
+      "source": "https://www.brettonwoods.com/"
+    },
+    {
+      "resort_name": "Killington",
+      "location": "Killington, Vermont",
+      "blurb": "blurb about killington",
+      "source": "https://www.killington.com/"
+    }
+  ]
+}
