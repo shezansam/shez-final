@@ -4,61 +4,71 @@
       "resort_name": "Whistler Blackcomb",
       "location": "Whistler, British Columbia",
       "blurb": "blurb about whistler",
-      "source": "https://www.whistlerblackcomb.com/"
+      "source": "https://www.whistlerblackcomb.com/",
+      "image": "whistler.png"
     },
     {
       "resort_name": "Big White",
       "location": "Kelowna, British Columbia",
       "blurb": "blurb about kelowna",
-      "source": "https://www.bigwhite.com/"
+      "source": "https://www.bigwhite.com/",
+      "image": "bigwhite.png"
     },
     {
       "resort_name": "Marmot Basin",
       "location": "Jasper, Alberta",
       "blurb": "blurb about jasper",
-      "source": "https://www.skimarmot.com/"
+      "source": "https://www.skimarmot.com/",
+      "image": "marmotbasin.png"
     },
     {
       "resort_name": "Lake Louise",
       "location": "Lake Louise, Alberta",
       "blurb": "blurb about lake louise",
-      "source": "https://www.skilouise.com/"
+      "source": "https://www.skilouise.com/",
+      "image": "lakelouise.png"
     },
     {
       "resort_name": "Mont-Tremblant",
       "location": "Mont-Tremblant, Québec",
       "blurb": "blurb about mont tremblant",
-      "source": "https://www.tremblant.ca/"
+      "source": "https://www.tremblant.ca/",
+      "image": "tremblant.png"
     },
     {
       "resort_name": "Sunshine Village",
       "location": "Banff, Alberta",
       "blurb": "blurb about banff",
-      "source": "https://www.skibanff.com/"
+      "source": "https://www.skibanff.com/",
+      "image": "sunshine.png"
     },
     {
       "resort_name": "Revelstoke",
       "location": "Revelstoke, British Columbia",
       "blurb": "blurb about revelstoke",
-      "source": "https://www.revelstokemountainresort.com/"
+      "source": "https://www.revelstokemountainresort.com/",
+      "image": "revelstoke.png"
     },
     {
       "resort_name": "Sun Peaks",
       "location": "Sun Peaks, British Columbia",
       "blurb": "blurb about sun peaks",
-      "source": "https://www.sunpeaksresort.com/"
+      "source": "https://www.sunpeaksresort.com/",
+      "image": "sunpeaks.png"
     },
     {
       "resort_name": "Kicking Horse",
       "location": "Golden, British Columbia",
       "blurb": "blurb about golden",
-      "source": "https://kickinghorseresort.com/"
+      "source": "https://kickinghorseresort.com/",
+      "image": "kickinghorse.png"
     },
     {
       "resort_name": "Fernie",
       "location": "Fernie, British Columbia",
       "blurb": "blurb about fernie",
-      "source": "https://skifernie.com/"
+      "source": "https://skifernie.com/",
+      "image": "fernie.png"
     }
   ]
 }

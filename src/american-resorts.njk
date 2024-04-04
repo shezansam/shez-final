@@ -18,10 +18,11 @@
         <p class="card-text">{{ resort.blurb }}</p>
       </div>
       <div class="card-footer">
-        <a href="{{ resort.source }}" class="card-link">More about the ski resort</a>
+        <a href="{{ resort.source }}" class="card-link">More about {{ resort.resort_name }}</a>
       </div>
     </div>
-    {% endfor %}
+  </div>
+  {% endfor %}
   </div>
 </article>
 {% endblock %}

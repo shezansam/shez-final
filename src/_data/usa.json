@@ -4,61 +4,71 @@
       "resort_name": "Aspen Snowmass",
       "location": "Snowmass Village, Colorado",
       "blurb": "blurb about snowmass",
-      "source": "https://www.aspensnowmass.com/"
+      "source": "https://www.aspensnowmass.com/",
+      "image": "snowmass.png"
     },
     {
       "resort_name": "Deer Valley",
       "location": "Park City, Utah",
       "blurb": "blurb about park city",
-      "source": "https://www.deervalley.com/"
+      "source": "https://www.deervalley.com/",
+      "image": "deervalley.png"
     },
     {
       "resort_name": "Smugglers' Notch",
       "location": "Jeffersonville, Vermont",
       "blurb": "blurb about jeffersonville",
-      "source": "https://www.smuggs.com/"
+      "source": "https://www.smuggs.com/",
+      "image": "smuggs.png"
     },
     {
       "resort_name": "Sun Valley",
       "location": "Sun Valley, Idaho",
       "blurb": "blurb about sun valley",
-      "source": "https://www.sunvalley.com/"
+      "source": "https://www.sunvalley.com/",
+      "image": "sunvalley.png"
     },
     {
       "resort_name": "Bretton Woods",
       "location": "Bretton Woods, New Hampshire",
       "blurb": "blurb about bretton woods",
-      "source": "https://www.brettonwoods.com/"
+      "source": "https://www.brettonwoods.com/",
+      "image": "brettonwoods.png"
     },
     {
       "resort_name": "Killington",
       "location": "Killington, Vermont",
       "blurb": "blurb about killington",
-      "source": "https://www.killington.com/"
+      "source": "https://www.killington.com/",
+      "image": "killington.png"
     },
     {
       "resort_name": "Telluride",
       "location": "Telluride, Colorado",
       "blurb": "blurb about telluride",
-      "source": "https://tellurideskiresort.com/"
+      "source": "https://tellurideskiresort.com/",
+      "image": "telluride.png"
     },
     {
       "resort_name": "Jackson Hole",
       "location": "Teton Village, Wyoming",
       "blurb": "blurb about teton village",
-      "source": "https://www.jacksonhole.com/"
+      "source": "https://www.jacksonhole.com/",
+      "image": "jacksonhole.png"
     },
     {
       "resort_name": "Waterville Valley",
       "location": "Waterville Valley, New Hampshire",
       "blurb": "blurb about waterville valley",
-      "source": "https://www.waterville.com/"
+      "source": "https://www.waterville.com/",
+      "image": "watterville.png"
     },
     {
       "resort_name": "Whitefish",
       "location": "Whitefish, Montana",
       "blurb": "blurb about whitefish",
-      "source": "https://skiwhitefish.com/"
+      "source": "https://skiwhitefish.com/",
+      "image": "whitefish.png"
     }
   ]
 }

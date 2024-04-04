@@ -33,6 +33,13 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
+    },
+    {
+      "template": "bake-resorts",
+      "data": "overall",
+      "array": "resorts",
+      "slug": "slug",
+      "path": "resorts"
     }
   ]
 }
