@@ -35,6 +35,30 @@
       "location": "Banff, Alberta",
       "blurb": "blurb about banff",
       "source": "https://www.skibanff.com/"
+    },
+    {
+      "resort_name": "Revelstoke",
+      "location": "Revelstoke, British Columbia",
+      "blurb": "blurb about revelstoke",
+      "source": "https://www.revelstokemountainresort.com/"
+    },
+    {
+      "resort_name": "Sun Peaks",
+      "location": "Sun Peaks, British Columbia",
+      "blurb": "blurb about sun peaks",
+      "source": "https://www.sunpeaksresort.com/"
+    },
+    {
+      "resort_name": "Kicking Horse",
+      "location": "Golden, British Columbia",
+      "blurb": "blurb about golden",
+      "source": "https://kickinghorseresort.com/"
+    },
+    {
+      "resort_name": "Fernie",
+      "location": "Fernie, British Columbia",
+      "blurb": "blurb about fernie",
+      "source": "https://skifernie.com/"
     }
   ]
 }

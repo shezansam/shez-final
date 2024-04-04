@@ -1,6 +1,6 @@
 {% extends '_templates/base.njk' %}
 
-{% block page_title %}Pirate ships{% endblock %}
+{% block page_title %}Unites States{% endblock %}
 
 {% block page_description %}A list of pirate ships of lore from fact and fiction.{% endblock %}
 
@@ -8,10 +8,10 @@
 <article class="container">
   <h1>Top Ski Resorts in the United States</h1>
   <p>Intro text here.</p>
-  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-  {% for resort in usa.resorts %}
-  <div class="col">
-    <div class="card h-100">
+  <div class="row row-cols-1">
+  {% for resort in usa.resort %}
+  <div class="col my-3">
+    <div class="card text-bg-light border-dark">
       <div class="card-body">
         <h5 class="card-title">{{ resort.resort_name }}</h5>
         <h6>{{ resort.location }}</h6>

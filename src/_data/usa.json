@@ -35,6 +35,30 @@
       "location": "Killington, Vermont",
       "blurb": "blurb about killington",
       "source": "https://www.killington.com/"
+    },
+    {
+      "resort_name": "Telluride",
+      "location": "Telluride, Colorado",
+      "blurb": "blurb about telluride",
+      "source": "https://tellurideskiresort.com/"
+    },
+    {
+      "resort_name": "Jackson Hole",
+      "location": "Teton Village, Wyoming",
+      "blurb": "blurb about teton village",
+      "source": "https://www.jacksonhole.com/"
+    },
+    {
+      "resort_name": "Waterville Valley",
+      "location": "Waterville Valley, New Hampshire",
+      "blurb": "blurb about waterville valley",
+      "source": "https://www.waterville.com/"
+    },
+    {
+      "resort_name": "Whitefish",
+      "location": "Whitefish, Montana",
+      "blurb": "blurb about whitefish",
+      "source": "https://skiwhitefish.com/"
     }
   ]
 }
