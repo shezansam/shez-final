@@ -7,18 +7,16 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="{{ relative_path }}canadian-resorts.html">Canadian Resorts</a>
+          <a class="nav-link" href="{{ relative_path }}canadian-resorts.html">Canada Resorts</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ relative_path }}american-resorts.html">American Resorts</a>
+          <a class="nav-link" href="{{ relative_path }}american-resorts.html">U.S. Resorts</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Library books
-          </a>
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Top 10 North America Resorts</a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            {% for book in library.books %}
-            <li><a class="dropdown-item" href="{{ relative_path }}books/{{ book.slug}}.html">{{ book.title }}</a></li>
+            {% for resort in overall.resorts %}
+            <li><a class="dropdown-item" href="{{ relative_path }}resorts/{{ resort.slug }}.html">{{ resort.title }}</a></li>
             {% endfor %}
           </ul>
         </li>

@@ -1,5 +1,5 @@
 #jumbo {
-  background: url(../img/jumbotron-two.png) no-repeat center;
+  background: url(../img/jumbotron.png) no-repeat center;
   background-size: cover;
   color: white;
   padding-top: 12rem
@@ -7,4 +7,9 @@
 
 #jumbo {
   margin-bottom: 30px;
+  color: black;
+}
+
+#jumbotext {
+  color: white;
 }

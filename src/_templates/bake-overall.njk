@@ -7,18 +7,18 @@
 {% block page_description %}{{ title }}{% endblock %}
 
 {% block content %}
-  <article class="container">
+<article class="container">
     <div class="row">
-      <div class="col-sm-4">
-        <img src="{{ relative_path }}img/{{ image02 }}" alt="pirate character" class="img-fluid">
-        <p class="byline">By Crit McGillicutty<br>
-        <span>Island Breeze Tribune</span></p>
-        <hr class="d-sm-none">
+      <div class="col-sm-6">
+        <img src="{{ relative_path }}img/{{ image }}" alt="{{ title }}" class="img-fluid">
       </div>
-      <div class="col-sm-8">
-        <img src="{{ relative_path }}img/{{ image }}" alt="" class="img-fluid mb-4">
-        <h1>{{ headline }}</h1>
-        {{ {{ blurb | safe }} }}
+      <div class="col-sm-6">
+        <h1>{{ title }}</h1>
+        <h4>Location: {{ location }}</h4>
+        <h4>Closest Airport: {{ airport }}</h4>
+        <h4>Elevation: {{ elevation }}</h4>
+        <h4>Ticket Price: {{ price | safe }}</h4>
+        <p>{{ blurb }}</p>
       </div>
     </div>
   </article>
