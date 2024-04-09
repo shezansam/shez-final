@@ -61,7 +61,7 @@
       "location": "Waterville Valley, New Hampshire",
       "blurb": "blurb about waterville valley",
       "source": "https://www.waterville.com/",
-      "image": "watterville.png"
+      "image": "waterville.png"
     },
     {
       "resort_name": "Whitefish",
@@ -69,6 +69,20 @@
       "blurb": "blurb about whitefish",
       "source": "https://skiwhitefish.com/",
       "image": "whitefish.png"
+    },
+    {
+      "resort_name": "Breckenridge",
+      "location": "Breckenridge, Colorado",
+      "blurb": "blurb about breckenridge",
+      "source": "https://www.breckenridge.com/",
+      "image": "breckenridge.png"
+    },
+    {
+      "resort_name": "Beaver Creek",
+      "location": "Beaver Creek, Colorado",
+      "blurb": "blurb about Beaver Creek",
+      "source": "https://www.beavercreek.com/",
+      "image": "beavercreek.png"
     }
   ]
 }

@@ -69,6 +69,20 @@
       "blurb": "blurb about fernie",
       "source": "https://skifernie.com/",
       "image": "fernie.png"
+    },
+    {
+      "resort_name": "RED Mountain",
+      "location": "Rossland, British Columbia",
+      "blurb": "blurb about red mountain",
+      "source": "https://www.redresort.com/",
+      "image": "redmountain.png"
+    },
+    {
+      "resort_name": "Panorama",
+      "location": "Panorama, British Columbia",
+      "blurb": "blurb about panorama",
+      "source": "https://www.panoramaresort.com/",
+      "image": "panorama.png"
     }
   ]
 }

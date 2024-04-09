@@ -19,7 +19,7 @@
     {% for resort in overall.resorts %}
 
     <div class="col">
-      <div class="card">
+      <div class="card text-bg-light border-dark">
         <img src="{{ relative_path }}img/{{ resort.image }}" class="card-img-top" alt="{{ resort.title }}">
         <div class="card-body">
           <h3 class="card-title"><a href="{{ relative_path }}resorts/{{ resort.slug }}.html">{{ resort.title }}</a></h3>
