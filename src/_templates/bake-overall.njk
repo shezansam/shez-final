@@ -7,19 +7,29 @@
 {% block page_description %}{{ title }}{% endblock %}
 
 {% block content %}
-<article class="container">
-    <div class="row">
-      <div class="col-sm-6">
+<!-- Article -->
+<section class="containter mx-3">
+  <div class="row">
+
+<!-- Left column photo -->
+    <div class="col-md-6 col-lg-4">
+      <figure class="figure resort-photo">
         <img src="{{ relative_path }}img/{{ image }}" alt="{{ title }}" class="img-fluid">
-      </div>
-      <div class="col-sm-6">
-        <h1>{{ title }}</h1>
-        <h4>Location: {{ location }}</h4>
-        <h4>Closest Airport: {{ airport }}</h4>
-        <h4>Elevation: {{ elevation }}</h4>
-        <h4>Ticket Price: {{ price | safe }}</h4>
-        <p>{{ blurb }}</p>
-      </div>
+      </figure>
     </div>
-  </article>
+
+    <!-- Right column story -->
+    <div class="col-md-6 col-lg-8">
+      <h1>{{ title }}</h1>
+        <ul>
+            <li><h4>Location: {{ location }}</h4></li>
+            <li><h4>Closest Airport: {{ airport }}</h4></li>
+            <li><h4>Elevation: {{ elevation }}</h4></li>
+            <li><h4>Ticket Price: {{ price | safe }}</h4></li>
+          </ul>
+          <p>{{ blurb }}</p>
+    </div>
+
+  </div>
+</section>
 {% endblock %}

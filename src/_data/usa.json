@@ -3,84 +3,84 @@
     {
       "resort_name": "Aspen Snowmass",
       "location": "Snowmass Village, Colorado",
-      "blurb": "blurb about snowmass",
+      "blurb": "With a top elevation of 12,510 feet or 3,813 meters, Aspen Snowmass has 98 runs. Fly in Denver International Airport (DEN) and it is a 3 hr 48 min drive to the ski resort.",
       "source": "https://www.aspensnowmass.com/",
       "image": "snowmass.png"
     },
     {
       "resort_name": "Deer Valley",
       "location": "Park City, Utah",
-      "blurb": "blurb about park city",
+      "blurb": "With a top elevation of 9,570 feet or 2,917 meters, Deer Valley has 103 runs. Fly into Salt Lake City International Airport (SLC) and it is a 45 min drive to the ski resort.",
       "source": "https://www.deervalley.com/",
       "image": "deervalley.png"
     },
     {
       "resort_name": "Smugglers' Notch",
       "location": "Jeffersonville, Vermont",
-      "blurb": "blurb about jeffersonville",
+      "blurb": "With a top elevation of 3,640 feet or 1,110 meters, Smugglers' Notch has 78 runs. Fly into Burlington International Airport (BTV) and it is a 50 min drive to the ski resort.",
       "source": "https://www.smuggs.com/",
       "image": "smuggs.png"
     },
     {
       "resort_name": "Sun Valley",
       "location": "Sun Valley, Idaho",
-      "blurb": "blurb about sun valley",
+      "blurb": "With a top elevation of 9,150 feet or 2,789 meters, Sun Valley has 120 runs. Fly into Friedman Memorial Airport (SUN) and it is a 25 min drive to the ski resort.",
       "source": "https://www.sunvalley.com/",
       "image": "sunvalley.png"
     },
     {
       "resort_name": "Bretton Woods",
       "location": "Bretton Woods, New Hampshire",
-      "blurb": "blurb about bretton woods",
+      "blurb": "With a top elevation of 3,100 feet or 945 meters, Bretton Woods has 98 runs. Fly into Manchester-Boston Regional Airport (MHT) and it is a 1 hr 45 min drive to the ski resort.",
       "source": "https://www.brettonwoods.com/",
       "image": "brettonwoods.png"
     },
     {
       "resort_name": "Killington",
       "location": "Killington, Vermont",
-      "blurb": "blurb about killington",
+      "blurb": "With a top elevation of 4,241 feet or 1,293 meters, Killington has 155 runs. Fly into Burlington International Airport (BTV) and it is a 1 hr 46 min drive to the ski resort.",
       "source": "https://www.killington.com/",
       "image": "killington.png"
     },
     {
       "resort_name": "Telluride",
       "location": "Telluride, Colorado",
-      "blurb": "blurb about telluride",
+      "blurb": "With a top elevation of 13,150 feet or 4,008 meters, Telluride has 148 runs. Fly into Montrose Regional Airport (MTJ) and it is a 1 hr 19 min drive to the ski resort.",
       "source": "https://tellurideskiresort.com/",
       "image": "telluride.png"
     },
     {
       "resort_name": "Jackson Hole",
       "location": "Teton Village, Wyoming",
-      "blurb": "blurb about teton village",
+      "blurb": "With a top elevation of 10,450 feet or 3,185 meters, Jackson Hole has 131 runs. Fly into Jackson Hole Airport (JAC) and it is a 51 min drive to the ski resort.",
       "source": "https://www.jacksonhole.com/",
       "image": "jacksonhole.png"
     },
     {
       "resort_name": "Waterville Valley",
       "location": "Waterville Valley, New Hampshire",
-      "blurb": "blurb about waterville valley",
+      "blurb": "With a top elevation of 4,004 feet or 1,220 meters, Waterville Valley has 62 runs. Fly into Manchester-Boston Regional Airport (MHT) and it is a 1 hr 22 min drive to the ski resort.",
       "source": "https://www.waterville.com/",
       "image": "waterville.png"
     },
     {
       "resort_name": "Whitefish",
       "location": "Whitefish, Montana",
-      "blurb": "blurb about whitefish",
+      "blurb": "With a top elevation of 6,817 feet or 2,078 meters, Whitefish has 111 runs. Fly into Glacier Park International Airport (GPI) and it is a 31 min drive to the ski resort.",
       "source": "https://skiwhitefish.com/",
       "image": "whitefish.png"
     },
     {
       "resort_name": "Breckenridge",
       "location": "Breckenridge, Colorado",
-      "blurb": "blurb about breckenridge",
+      "blurb": "With a top elevation of 12,998 feet of 3,962 meters, Breckenridge has 187 runs. Fly in Denver International Airport (DEN) and it is a 1 hr 51 min drive to the ski resort.",
       "source": "https://www.breckenridge.com/",
       "image": "breckenridge.png"
     },
     {
       "resort_name": "Beaver Creek",
       "location": "Beaver Creek, Colorado",
-      "blurb": "blurb about Beaver Creek",
+      "blurb": "With a top elevation of 11,440 feet or 3,488 meters, Beaver Creek has 167 runs. Fly into Denver International Airport (DEN) and it is a 2 hr 10 min drive to the ski resort.",
       "source": "https://www.beavercreek.com/",
       "image": "beavercreek.png"
     }

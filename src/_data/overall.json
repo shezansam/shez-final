@@ -39,7 +39,7 @@
       "location": "Jeffersonville, Vermont",
       "image": "smuggs.png",
       "image02": "smuggs02.png",
-      "airport": "Burlington International Airport (BVT)",
+      "airport": "Burlington International Airport (BTV)",
       "elevation": "3,640 feet / 1,110 meters",
       "price": "<a href=\"https://www.smuggs.com/pages/winter/skiride/lift-ticket-rates.php\">Adult lift tickets</a> range from $59 to $95 USD for a one-day ticket and $45 to $72 USD for a half-day ticket.",
       "Blurb": "Located in the Green Mountains and Appalachian Mountains, Smugglers’ Notch features three interconnected mountains- Madonna, Sterling, and Morse. The ski resort has 8 lifts and 78 trails. 19% of runs are beginner, 50% are intermediate, and 31% are advanced."
@@ -50,7 +50,7 @@
       "location": "Kelowna, British Columbia",
       "image": "bigwhite.png",
       "image02": "bigwhite02.png",
-      "airport": "Kelowna International Airport (KLW)",
+      "airport": "Kelowna International Airport (YLW)",
       "elevation": "11,212 feet /  3,418 meters",
       "price": "<a href=\"https://www.bigwhite.com/tickets-passes/lift-tickets\">Adult lift tickets</a> range from $109 to $189 CAD for a one-day ticket",
       "blurb": "Located in the Beaverdell Range, Big White has some of the cleanest and freshest tap water in the world. The ski resort has 16 lifts and 119 trails. 18% of runs are beginner, 54% are intermediate, and 28% are advanced."
@@ -72,7 +72,7 @@
       "location": "Bretton Woods, New Hampshire",
       "image": "brettonwoods.png",
       "image02": "brettonwoods02.png",
-      "airport": "Manchester Boston Regional Airport (MHT)",
+      "airport": "Manchester-Boston Regional Airport (MHT)",
       "elevation": "3,100 feet / 945 meters",
       "price": "<a href=\"https://store.brettonwoods.com/s/tickets/\">Adult lift tickets</a> range from $82 to $109 USD for a one-day ticket.",
       "blurb": "Located in the White Mountains, Bretton Woods has alpine skiing, nordic skiing, snowshoeing, and tubing. The ski resort has 10 lifts and 98 trails. 29% of runs are beginner, 39% are intermediate, and 42% are advanced."
@@ -86,7 +86,7 @@
       "airport": "Edmonton International Airport (YEG)",
       "elevation": "8,570 feet / 1,698 meters",
       "price": "<a href=\"https://store.skimarmot.com/s/lift-tickets?_gl=1*k5kjo6*_ga*MTc1NDA1MjUzNy4xNzExNzM4MDU3*_ga_GPHDY44RKL*MTcxMTczODA1Ny4xLjEuMTcxMTczODIxMC41OC4wLjA.\">Adult lift tickets</a> are $132 CAD for a one-day ticket.",
-      "blurb": "Located in the Rocky Mountains, Marmot Basin has spring skiing open all the way until May. The ski resort has 91 trains, 2 terrain parks, and 7 lifts. 30% of runs are beginner, 30% are intermediate, and 40% are advanced."
+      "blurb": "Located in the Rocky Mountains, Marmot Basin has spring skiing open all the way until May. The ski resort has 91 trails, 2 terrain parks, and 7 lifts. 30% of runs are beginner, 30% are intermediate, and 40% are advanced."
     },
     {
       "slug": "killington",

@@ -3,84 +3,84 @@
     {
       "resort_name": "Whistler Blackcomb",
       "location": "Whistler, British Columbia",
-      "blurb": "blurb about whistler",
+      "blurb": "With a top elevation of 7,497 feet or 2,284 meters, Whistler has over 200 runs. Fly in Vancouver International Airport (YVR) and it is a 2 hr 15 min drive to the ski resort.",
       "source": "https://www.whistlerblackcomb.com/",
       "image": "whistler.png"
     },
     {
       "resort_name": "Big White",
       "location": "Kelowna, British Columbia",
-      "blurb": "blurb about kelowna",
+      "blurb": "With a top elevation of 11,212 feet or 3,418 meters, Big White has 119 runs. Fly into Kelwona International Airport (YLW) and it is a 51 min drive to the ski resort.",
       "source": "https://www.bigwhite.com/",
       "image": "bigwhite.png"
     },
     {
       "resort_name": "Marmot Basin",
       "location": "Jasper, Alberta",
-      "blurb": "blurb about jasper",
+      "blurb": "With a top elevation of 8,570 feet or 1,698 meters, Marmot Basin has 91 runs. Fly into Edmonton International Airport (YEG) and it is a 4 hr 31 min drive to the ski resort.",
       "source": "https://www.skimarmot.com/",
       "image": "marmotbasin.png"
     },
     {
       "resort_name": "Lake Louise",
       "location": "Lake Louise, Alberta",
-      "blurb": "blurb about lake louise",
+      "blurb": "With a top elevation of 8,650 feet or 2,637 meters, Lake Louise has 164 runs. Fly into Calgary International Airport (YYC) and it is a 2 hr 5 min drive to the ski resort.",
       "source": "https://www.skilouise.com/",
       "image": "lakelouise.png"
     },
     {
-      "resort_name": "Mont-Tremblant",
+      "resort_name": "Mont Tremblant",
       "location": "Mont-Tremblant, Québec",
-      "blurb": "blurb about mont tremblant",
+      "blurb": "With a top elevation of 2,871 feet or 875 meters, Mont Tremblant has 102 runs. Fly into Montréal-Trudeau International Airport (YUL) and it is a 1 hr 57 min drive to the ski resort.",
       "source": "https://www.tremblant.ca/",
       "image": "tremblant.png"
     },
     {
       "resort_name": "Sunshine Village",
       "location": "Banff, Alberta",
-      "blurb": "blurb about banff",
+      "blurb": "With a top elevation of 8,957 feet or 2,730 meters, Sunshine Village has 120 runs. Fly into Calgary International Airport (YYC) and it is a 1 hr 44 min drive to the ski resort.",
       "source": "https://www.skibanff.com/",
       "image": "sunshine.png"
     },
     {
       "resort_name": "Revelstoke",
       "location": "Revelstoke, British Columbia",
-      "blurb": "blurb about revelstoke",
+      "blurb": "With a top elevation of 7,300 feet or 2,225 meters, Revelstoke has 75 runs. Fly into Kelowna International Airport (YLW) and it is a 2 hr 25 min drive to the ski resort.",
       "source": "https://www.revelstokemountainresort.com/",
       "image": "revelstoke.png"
     },
     {
       "resort_name": "Sun Peaks",
       "location": "Sun Peaks, British Columbia",
-      "blurb": "blurb about sun peaks",
+      "blurb": "With a top elevation of 6,824 feet or 2,080 meters, Sun Peaks has 139 runs. Fly into Kamloops Airport (YKA) and it is a 49 min drive to the ski resort.",
       "source": "https://www.sunpeaksresort.com/",
       "image": "sunpeaks.png"
     },
     {
       "resort_name": "Kicking Horse",
       "location": "Golden, British Columbia",
-      "blurb": "blurb about golden",
+      "blurb": "With a top elevation of 8,218 feet or 2,505 meters, Kicking Horse has over 120 runs. Fly into Calgary International Airport (YYC) and it is a 3 hr 12 min drive to the ski resort.",
       "source": "https://kickinghorseresort.com/",
       "image": "kickinghorse.png"
     },
     {
       "resort_name": "Fernie",
       "location": "Fernie, British Columbia",
-      "blurb": "blurb about fernie",
+      "blurb": "With a top elevation of 7,000 feet or 2,134 meters, Fernie has 145 runs. Fly into Calgary International Airport (YYC) and it is a 3 hr 12 min drive to the ski resort.",
       "source": "https://skifernie.com/",
       "image": "fernie.png"
     },
     {
       "resort_name": "RED Mountain",
       "location": "Rossland, British Columbia",
-      "blurb": "blurb about red mountain",
+      "blurb": "With a top elevation of 6,807 feet or 2,075 meters, RED Mountain has 119 runs. Fly into Spokane International Airport (GEG) and it is a 2 hr 45 min drive to the ski resort.",
       "source": "https://www.redresort.com/",
       "image": "redmountain.png"
     },
     {
       "resort_name": "Panorama",
       "location": "Panorama, British Columbia",
-      "blurb": "blurb about panorama",
+      "blurb": "With a top elevation of 8,038 feet or 2,450 meters, Panorama has 135 runs. Fly into Calgary International Airport (YYC) and it is a 3 hr 33 min drive to the ski resort.",
       "source": "https://www.panoramaresort.com/",
       "image": "panorama.png"
     }
