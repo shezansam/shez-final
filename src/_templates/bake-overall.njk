@@ -19,13 +19,13 @@
     </div>
 
     <!-- Right column story -->
-    <div class="col-md-6 col-lg-8">
+    <div class="col-md-6 col-lg-8 baked">
       <h1>{{ title }}</h1>
         <ul>
-            <li><h4>Location: {{ location }}</h4></li>
-            <li><h4>Closest Airport: {{ airport }}</h4></li>
-            <li><h4>Elevation: {{ elevation }}</h4></li>
-            <li><h4>Ticket Price: {{ price | safe }}</h4></li>
+            <li><h4><strong>Location: </strong>{{ location }}</h4></li>
+            <li><h4><strong>Closest Airport: </strong>{{ airport }}</h4></li>
+            <li><h4><strong>Elevation: </strong>{{ elevation }}</h4></li>
+            <li><h4><strong>Ticket Price: </strong>{{ price | safe }}</h4></li>
           </ul>
           <p>{{ blurb }}</p>
     </div>

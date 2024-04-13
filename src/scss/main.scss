@@ -21,15 +21,9 @@
 // Import partials
 @import 'nav';
 @import "jumbotron";
+@import "baked";
 
 h1 {
   font-family: "Glass Antiqua", serif;
-}
-
-h3 {
-  font-size: 1.5rem;
-}
-
-.resort-photo {
-
+  font-weight: bold;
 }

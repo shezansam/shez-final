@@ -3,50 +3,55 @@
     {
       "slug": "aspen-snowmass",
       "title": "Aspen Snowmass",
+      "rank": "1.",
       "location": "Snowmass Village, Colorado",
       "image": "snowmass.png",
       "image02": "snowmass02.png",
       "airport": "Denver International Airport (DEN)",
       "elevation": "12,510 feet / 3,813 meters",
-      "price": "<a href=\"https://www.aspensnowmass.com/visit/tickets-and-passes/lift-tickets\">Adult lift tickets</a> range from $189 to $239 USD for a one-day ticket and $124 to $162 USD for a half-day ticket.",
+      "price": "<a href=\"https://www.aspensnowmass.com/visit/tickets-and-passes/lift-tickets\">Adult lift tickets</a> range from $189 to $239 USD for a one-day ticket and $124 to $162 USD for a half-day ticket",
       "blurb": "Located in the Elk Mountains, Aspen Snowmass features four mountains- Aspen, Aspen Highlands, Buttermilk, and Snowmass. The ski resort has 98 trails, 3 terrain parks, and 20 lifts. 5% of runs are beginner, 48% are intermediate, and 47% are advanced."
     },
     {
       "slug": "whistler-blackcomb",
       "title": "Whistler Blackcomb",
+      "rank": "2.",
       "location": "Whistler, British Columbia",
       "image": "whistler.png",
       "image02": "whistler02.png",
       "airport": "Vancouver International Airport (YVR)",
       "elevation": "7,497 feet / 2,284 meters",
-      "price": "<a href=\"https://www.whistlerblackcomb.com/plan-your-trip/lift-access/tickets.aspx\">Adult lift tickets</a> range from $186 to $249 CAD for a one-day ticket.",
+      "price": "<a href=\"https://www.whistlerblackcomb.com/plan-your-trip/lift-access/tickets.aspx\">Adult lift tickets</a> range from $186 to $249 CAD for a one-day ticket",
       "blurb": "Located in the Fitzsimmons Range, Whistler Blackcomb is the largest ski resort in North America. The ski resort has 37 lifts, over 200 trails, and 3 terrain parks. 20% of runs are beginner, 50% are intermediate, and 30% are advanced."
     },
     {
       "slug": "deer-valley",
       "title": "Deer Valley",
+      "rank": "3.",
       "location": "Park City, Utah",
       "image": "deervalley.png",
       "image02": "deervalley02.png",
       "airport": "Salt Lake City International Airport (SLC)",
       "elevation": "9,570 feet / 2,917 meters",
-      "price": "<a href=\"https://www.deervalley.com/plan-your-trip/tickets-and-passes/lift-tickets\">Adult lift tickets</a> range from $169 to $289 USD for a one-day ticket.",
+      "price": "<a href=\"https://www.deervalley.com/plan-your-trip/tickets-and-passes/lift-tickets\">Adult lift tickets</a> range from $169 to $289 USD for a one-day ticket",
       "blurb": "Located in the Wasatch Mountains, Deer Valley is one of three ski-only resorts in the United States. The ski resort has 21 lifts and 103 trails. 27% of runs are beginner, 41% are intermediate, and 32% are advanced."
     },
     {
       "slug": "smugglers-notch",
       "title": "Smugglers’ Notch",
       "location": "Jeffersonville, Vermont",
+      "rank": "4.",
       "image": "smuggs.png",
       "image02": "smuggs02.png",
       "airport": "Burlington International Airport (BTV)",
       "elevation": "3,640 feet / 1,110 meters",
-      "price": "<a href=\"https://www.smuggs.com/pages/winter/skiride/lift-ticket-rates.php\">Adult lift tickets</a> range from $59 to $95 USD for a one-day ticket and $45 to $72 USD for a half-day ticket.",
+      "price": "<a href=\"https://www.smuggs.com/pages/winter/skiride/lift-ticket-rates.php\">Adult lift tickets</a> range from $59 to $95 USD for a one-day ticket and $45 to $72 USD for a half-day ticket",
       "Blurb": "Located in the Green Mountains and Appalachian Mountains, Smugglers’ Notch features three interconnected mountains- Madonna, Sterling, and Morse. The ski resort has 8 lifts and 78 trails. 19% of runs are beginner, 50% are intermediate, and 31% are advanced."
     },
     {
       "slug": "big-white",
       "title": "Big White",
+      "rank": "5.",
       "location": "Kelowna, British Columbia",
       "image": "bigwhite.png",
       "image02": "bigwhite02.png",
@@ -58,28 +63,31 @@
     {
       "slug": "sun-valley",
       "title": "Sun Valley",
+      "rank": "6.",
       "location": "Sun Valley, Idaho",
       "image": "sunvalley.png",
       "image02": "sunvalley02.png",
       "airport": "Friedman Memorial Airport (SUN)",
       "elevation": "9,150 feet / 2,789 meters",
-      "price": "<a href=\"https://shop.sunvalley.com/s/winter-lift-tickets/c/adult-1-day-lift-ticket\">Adult lift tickets range</a> from $99 to $125 USD for a one-day ticket and $98 for a half-day ticket.",
+      "price": "<a href=\"https://shop.sunvalley.com/s/winter-lift-tickets/c/adult-1-day-lift-ticket\">Adult lift tickets range</a> from $99 to $125 USD for a one-day ticket and $98 for a half-day ticket",
       "blurb": "Located in the Smoky Mountains, Sun Valley features two mountains- Bald Mountain and Dollar Mountain. The ski resort has 17 lifts and 120 trails. 36% of runs are beginner, 42% are intermediate, and 22% are advanced."
     },
     {
       "slug": "bretton-woods",
       "title": "Bretton Woods",
+      "rank": "7.",
       "location": "Bretton Woods, New Hampshire",
       "image": "brettonwoods.png",
       "image02": "brettonwoods02.png",
       "airport": "Manchester-Boston Regional Airport (MHT)",
       "elevation": "3,100 feet / 945 meters",
-      "price": "<a href=\"https://store.brettonwoods.com/s/tickets/\">Adult lift tickets</a> range from $82 to $109 USD for a one-day ticket.",
+      "price": "<a href=\"https://store.brettonwoods.com/s/tickets/\">Adult lift tickets</a> range from $82 to $109 USD for a one-day ticket",
       "blurb": "Located in the White Mountains, Bretton Woods has alpine skiing, nordic skiing, snowshoeing, and tubing. The ski resort has 10 lifts and 98 trails. 29% of runs are beginner, 39% are intermediate, and 42% are advanced."
     },
     {
       "slug": "marmot-basin",
       "title": "Marmot Basin",
+      "rank": "8.",
       "location": "Jasper, Alberta",
       "image": "marmotbasin.png",
       "image02": "marmotbasin02.png",
@@ -91,6 +99,7 @@
     {
       "slug": "killington",
       "title": "Killington",
+      "rank": "9.",
       "location": "Killington, Vermont",
       "image": "killington.png",
       "image02": "killington02.png",
@@ -102,12 +111,13 @@
     {
       "slug": "telluride",
       "title": "Telluride",
+      "rank": "10.",
       "location": "Telluride, Colorado",
       "image": "telluride.png",
       "image02": "telluride02.png",
       "airport": "Montrose Regional Airport (MTJ)",
       "elevation": "13,150 feet / 4,008 meters",
-      "price": "<a href=\"https://shop.tellurideskiresort.com/s/winter-lift-tickets/p/winter-lift-ticket\">Adult lift tickets</a> are $215 USD for a one-day ticket.",
+      "price": "<a href=\"https://shop.tellurideskiresort.com/s/winter-lift-tickets/p/winter-lift-ticket\">Adult lift tickets</a> are $215 USD for a one-day ticket",
       "blurb": "Located in the San Juan Mountains, Telluride is a popular resort that provides a 360-degree view of the surrounding mountains. The ski resort has 148 trails and 19 lifts. 23% of trails are beginner, 36% are intermediate, and 41% are advanced."
     }
   ]

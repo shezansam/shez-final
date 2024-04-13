@@ -8,7 +8,7 @@
   <div class="row">
     <div class="col">
       <h1>Top 10 Ski Resorts in North America</h1>
-      <p>Welcome to the guide to spending your winters in the mountains. There is no better way to spend the winter season than on the slopes, surrounded by beautiful scenery and breathtaking views. Below you'll find the top 10 ski resorts in North America, all located in the United States and Canada, starting with the top resort overall.</p>
+      <p>Welcome to the guide to spending your winters in the mountains. There is no better way to spend the winter season than on the slopes, surrounded by beautiful scenery and breathtaking views. Below you'll find the top 10 ski resorts in North America, all located in the United States and Canada.</p>
     </div>
   </div>
 </div>
@@ -22,7 +22,7 @@
       <div class="card text-bg-light border-dark">
         <img src="{{ relative_path }}img/{{ resort.image }}" class="card-img-top" alt="{{ resort.title }}">
         <div class="card-body">
-          <h3 class="card-title"><a href="{{ relative_path }}resorts/{{ resort.slug }}.html">{{ resort.title }}</a></h3>
+          <h3 class="card-title">{{ resort.rank }} <a href="{{ relative_path }}resorts/{{ resort.slug }}.html">{{ resort.title }}</a></h3>
           <p class="card-text">{{ resort.location }}</p>
         </div>
       </div>
