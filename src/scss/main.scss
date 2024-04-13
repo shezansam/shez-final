@@ -23,6 +23,10 @@
 @import "jumbotron";
 @import "baked";
 
+html, body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 h1 {
   font-family: "Glass Antiqua", serif;
   font-weight: bold;
