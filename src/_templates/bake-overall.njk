@@ -9,7 +9,7 @@
 {% block content %}
 <!-- Article -->
 <section class="containter mx-3">
-  <div class="row">
+  <div class="row row-cols-1">
 
 <!-- Left column photo -->
     <div class="col-md-6 col-lg-4">
@@ -21,13 +21,13 @@
     <!-- Right column story -->
     <div class="col-md-6 col-lg-8 baked">
       <h1>{{ title }}</h1>
-        <ul>
-            <li><h4><strong>Location: </strong>{{ location }}</h4></li>
-            <li><h4><strong>Closest Airport: </strong>{{ airport }}</h4></li>
-            <li><h4><strong>Elevation: </strong>{{ elevation }}</h4></li>
-            <li><h4><strong>Ticket Price: </strong>{{ price | safe }}</h4></li>
-          </ul>
-          <p>{{ blurb }}</p>
+      <section class="facts">
+        <h4><strong>Location: </strong>{{ location }}</h4>
+        <h4><strong>Closest Airport: </strong>{{ airport }}</h4>
+        <h4><strong>Elevation: </strong>{{ elevation }}</h4>
+        <h4><strong>Ticket Price: </strong>{{ price | safe }}</h4>
+      <section>
+      <p>{{ blurb }}</p>
     </div>
 
   </div>
