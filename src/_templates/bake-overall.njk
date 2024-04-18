@@ -8,26 +8,30 @@
 
 {% block content %}
 <!-- Article -->
-<section class="containter mx-3">
-  <div class="row row-cols-1">
+<section class="container">
+  <div class="row">
 
 <!-- Left column photo -->
-    <div class="col-md-6 col-lg-4">
+    <div class= "order-sm-2 order-lg-2">
+    <div class="col-lg-4">
       <figure class="figure resort-photo">
         <img src="{{ relative_path }}img/{{ image }}" alt="{{ title }}" class="img-fluid">
       </figure>
     </div>
+    </div>
 
     <!-- Right column story -->
-    <div class="col-md-6 col-lg-8 baked">
+    <div class= "order-sm-1 order-lg-2">
+    <div class="col-lg-8 baked">
       <h1>{{ title }}</h1>
-      <section class="facts">
+      <section>
         <h4><strong>Location: </strong>{{ location }}</h4>
         <h4><strong>Closest Airport: </strong>{{ airport }}</h4>
         <h4><strong>Elevation: </strong>{{ elevation }}</h4>
         <h4><strong>Ticket Price: </strong>{{ price | safe }}</h4>
       <section>
       <p>{{ blurb }}</p>
+    </div>
     </div>
 
   </div>
