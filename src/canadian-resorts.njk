@@ -8,8 +8,12 @@
 
 {% block content %}
 <article class="container">
+  
+  <!-- Intro -->
   <h1>Top Ski Resorts in Canada</h1>
   <p>Below you will find the top ski resorts in Canada. Located in British Columbia, Alberta, and Québec, these resorts found in picture perfect mountains will make you feel like you're in a winter wonderland.</p>
+
+  <!-- Cards -->
   <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2">
   {% for resort in canada.resort %}
   <div class="col my-3">
@@ -27,26 +31,6 @@
   </div>
   {% endfor %}
   </div>
+
 </article>
 {% endblock %}
-
-<!--
-  <div class="container">
-  <div class="row align-items-center col-md-10 offset-md-2 pb-3">
-    <div class="col">
-
-    <div class="row row-cols-1 row-cols-md-2 g-3 mx-2 mb-5">
-    {% for resort in overall.resorts %}
-
-    <div class="col">
-      <div class="card">
-        <img src="{{ relative_path }}img/{{ resort.image }}" class="card-img-top" alt="{{ resort.title }}">
-        <div class="card-body">
-          <h3 class="card-title"><a href="{{ relative_path }}resorts/{{ resort.slug }}.html">{{ resort.title }}</a></h3>
-          <p class="card-text">{{ resort.location }}</p>
-        </div>
-      </div>
-    </div>
-
-    {% endfor %}
- -->

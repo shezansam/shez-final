@@ -6,8 +6,12 @@
 
 {% block content %}
 <article class="container">
+
+  <!-- Intro -->
   <h1>Top Ski Resorts in the United States</h1>
   <p>Below you will find the top ski resorts in the United States. Located in a variety of states across the U.S., these beautiful resorts will give you access to cozy towns and unforgettable views.</p>
+
+  <!-- Cards -->
   <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2">
   {% for resort in usa.resort %}
   <div class="col my-3">
@@ -25,5 +29,6 @@
   </div>
   {% endfor %}
   </div>
+
 </article>
 {% endblock %}
