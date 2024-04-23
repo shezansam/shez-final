@@ -7,27 +7,31 @@
 {% block page_description %}{{ title }}{% endblock %}
 
 {% block content %}
-<!-- Article -->
+<!-- Resort Info -->
 <section class="container baked">
   <div class="row">
 
+<!-- Resort Title -->
+  <div class="text-center pb-3">
+    <h1>{{ title }}</h1>
+  </div>
+
 <!-- Left column photo -->
-    <div class="col-lg-4">
+    <div class="col-lg-4 pb-2">
       <figure class="figure resort-photo">
         <img src="{{ relative_path }}img/{{ image }}" alt="{{ title }}" class="img-fluid">
       </figure>
     </div>
 
-    <!-- Right column story -->
+    <!-- Right column info -->
     <div class="col-lg-8">
-      <h1>{{ title }}</h1>
 
-      <section>
+      <section class="facts">
         <h4><strong>Location: </strong>{{ location }}</h4>
         <h4><strong>Closest Airport: </strong>{{ airport }}</h4>
         <h4><strong>Elevation: </strong>{{ elevation }}</h4>
         <h4><strong>Ticket Price: </strong>{{ price | safe }}</h4>
-      <section>
+      </section>
 
       <p>{{ blurb }}</p>
     </div>
